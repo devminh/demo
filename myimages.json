@@ -1,0 +1,44 @@
+[
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "I5 8400",
+    "url": "https://www.komplett.se/img/p/800/f376f5fd-ffe9-9a67-a6bd-c059780dd652.jpg",
+
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "title": "GTX 1060",
+    "url": "https://images-na.ssl-images-amazon.com/images/I/81p1IBTIONL._SX425_.jpg",
+
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "MSI GS65",
+    "url": "https://www.anphatpc.com.vn/media/product/26243_laptop_msi_gs65_stealth_8re_242vn_5.jpg",
+
+  },
+  {
+    "albumId": 1,
+    "id": 4,
+    "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+    "url": "https://via.placeholder.com/600/d32776",
+
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "natus nisi omnis corporis facere molestiae rerum in",
+    "url": "https://via.placeholder.com/600/f66b97",
+
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "accusamus ea aliquid et amet sequi nemo",
+    "url": "https://via.placeholder.com/600/56a8c2",
+
+  }
+]
